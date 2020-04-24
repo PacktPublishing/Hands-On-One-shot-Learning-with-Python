@@ -37,7 +37,7 @@ y = iris.target
 **Following is what you need for this book:**
 If you're an AI researcher or a machine learning or deep learning expert looking to explore one-shot learning, this book is for you. It will help you get started with implementing various one-shot techniques to train models faster. Some Python programming experience is necessary to understand the concepts covered in this book.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-6).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-4).
 
 ### Software and Hardware List
 
