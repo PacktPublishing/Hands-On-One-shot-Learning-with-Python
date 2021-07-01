@@ -1,6 +1,6 @@
 # Hands-On-One-shot-Learning-with-Python
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-one-shot-learning-python?utm_source=github&utm_medium=repository&utm_campaign=9781838825461"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838825461-original.jpeg" alt="Hands-On One-shot Learning with Python" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-one-shot-learning-python?utm_source=github&utm_medium=repository&utm_campaign=9781838825461"><img src="https://static.packt-cdn.com/products/9781838825461/cover/smaller" alt="Hands-On One-shot Learning with Python" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On One-shot Learning with Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-one-shot-learning-python?utm_source=github&utm_medium=repository&utm_campaign=9781838825461), published by Packt.
 
